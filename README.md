@@ -32,3 +32,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=daucko&show_icons=true&locale=en" alt="daucko" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=daucko&" alt="daucko" /></p>
+
+[![Daucko's GitHub | Stats](https://stats.quine.sh/Daucko/github?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=Daucko)
