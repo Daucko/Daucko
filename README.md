@@ -40,3 +40,5 @@
 [![Daucko's GitHub | Languages Over Time](https://stats.quine.sh/Daucko/languages-over-time?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=Daucko)
 
 [![Daucko's Stack Overflow | Stats](https://stats.quine.sh/Daucko/stack-overflow?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=Daucko)
+
+![<Badge Name>](https://img.shields.io/badge/<Badge Text>-<Background Color>?style=for-the-badge&logo=<Icon Name>&logoColor=<Logo Color>)
