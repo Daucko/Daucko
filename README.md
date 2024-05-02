@@ -41,4 +41,4 @@
 
 [![Daucko's Stack Overflow | Stats](https://stats.quine.sh/Daucko/stack-overflow?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=Daucko)
 
-![<Badge Name>](https://img.shields.io/badge/<Badge Text>-<Background Color>?style=for-the-badge&logo=<Icon Name>&logoColor=<Logo Color>)
+![<Badge Daucko>](https://img.shields.io/badge/<Badge Text>-<Background Color>?style=for-the-badge&logo=<Icon Name>&logoColor=<Logo Color>)
